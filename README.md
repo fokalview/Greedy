@@ -1,41 +1,37 @@
-🧭 Greedy TSP Solver
-A lightweight Python program that solves the Traveling Salesman Problem using a greedy nearest-neighbor algorithm. This tool is perfect for understanding basic route optimization and comparing against more advanced TSP solutions.
+# 🧠 Greedy TSP Solver
 
-🚀 Features
-Greedy Algorithm: Uses a nearest-neighbor strategy to build a quick and simple route.
+A basic implementation of a greedy algorithm to approximate solutions for the Traveling Salesman Problem (TSP). This project is built using Python and demonstrates how a nearest-neighbor approach can be used to traverse nodes efficiently.
 
-Distance Matrix Input: Accepts custom input for easy testing and experimentation.
+## 🚀 Features
 
-Route Output: Displays the final path and total travel distance.
+* **Simple Algorithm**: Uses the greedy approach to choose the nearest unvisited city at each step.
+* **Educational Value**: Great for learning how greedy algorithms work for optimization problems.
+* **Minimal Requirements**: Requires only Python and the `matplotlib` library for optional visualization.
 
-Minimal Setup: No external libraries required — just run it with Python.
+## 🛠️ Technologies Used
 
-🛠️ Technologies Used
-Python: Main programming language
+* **Python**: Main programming language.
+* **matplotlib**: (Optional) Used for plotting the path taken by the algorithm.
 
-Built-in Libraries: math, itertools, etc. (depending on your exact implementation)
+## 📂 Project Structure
 
-📂 Project Structure
-Copy
-Edit
+```
 GreedyTSP/
 ├── greedy_tsp.py
-greedy_tsp.py: The main script that reads the distance matrix and returns the computed route using the greedy method.
+```
 
-📸 Example Output
-pgsql
-Copy
-Edit
-Start at City 0  
-Visit City 3  
-Visit City 2  
-Visit City 1  
-Return to City 0  
-Total distance: 142.7
-📈 Future Enhancements
-CSV/JSON input support
+* `greedy_tsp.py`: Main Python script implementing the greedy solution for the TSP.
 
-Graphical route visualization
+## 📸 Screenshots
 
-Performance comparison with brute-force and dynamic programming approaches
+*Note: Add a screenshot of the plotted tour if matplotlib visualization is used.*
 
+## 📈 Future Enhancements
+
+* **Better Visualizations**: Include matplotlib plots of the route.
+* **Distance Matrix Support**: Allow loading from distance matrix files.
+* **Benchmarking**: Add performance comparison against other algorithms.
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
