@@ -1,0 +1,143 @@
+Travel Log – TSP Tour
+------------------------
+Generated: 2025-04-26 17:15
+Cities Visited: 5
+
+Starting Tour...
+
+1. Thendara, New York (Lat: 43.701, Lon: -74.9971)
+   County: Herkimer
+   Population: 64
+   Timezone: America/New_York
+
+2. Sullivan, Illinois (Lat: 39.5951, Lon: -88.6084)
+   County: Moultrie
+   Population: 4,532
+   Timezone: America/Chicago
+
+3. Glasgow Village, Missouri (Lat: 38.7578, Lon: -90.1984)
+   County: St. Louis
+   Population: 5,036
+   Timezone: America/Chicago
+
+4. Richardson, Texas (Lat: 32.9716, Lon: -96.7093)
+   County: Dallas
+   Population: 115,904
+   Timezone: America/Chicago
+
+5. San Diego, California (Lat: 32.8313, Lon: -117.1222)
+   County: San Diego
+   Population: 3,084,174
+   Timezone: America/Los_Angeles
+
+Total Distance: 7981.36 km
+Tour Completed.
+Travel Log – TSP Tour
+------------------------
+Generated: 2025-04-26 17:17
+Cities Visited: 20
+
+Starting Tour...
+
+1. Americus, Indiana (Lat: 40.5254, Lon: -86.7475)
+   County: Tippecanoe
+   Population: 359
+   Timezone: America/Indiana/Indianapolis
+
+2. Bedford, Indiana (Lat: 38.8602, Lon: -86.4895)
+   County: Lawrence
+   Population: 13,726
+   Timezone: America/Indiana/Indianapolis
+
+3. Covington, Kentucky (Lat: 39.0334, Lon: -84.5166)
+   County: Kenton
+   Population: 40,930
+   Timezone: America/New_York
+
+4. Hickman, Tennessee (Lat: 36.1451, Lon: -85.9413)
+   County: Smith
+   Population: 280
+   Timezone: America/Chicago
+
+5. Adams, Tennessee (Lat: 36.5828, Lon: -87.0651)
+   County: Robertson
+   Population: 675
+   Timezone: America/Chicago
+
+6. Jenkinsburg, Georgia (Lat: 33.3224, Lon: -84.0389)
+   County: Butts
+   Population: 356
+   Timezone: America/New_York
+
+7. Movico, Alabama (Lat: 31.0628, Lon: -88.0266)
+   County: Mobile
+   Population: 46
+   Timezone: America/Chicago
+
+8. McLain, Mississippi (Lat: 31.1037, Lon: -88.8239)
+   County: Greene
+   Population: 345
+   Timezone: America/Chicago
+
+9. Yancey, Texas (Lat: 29.1442, Lon: -99.1438)
+   County: Medina
+   Population: 384
+   Timezone: America/Chicago
+
+10. Terril, Iowa (Lat: 43.3058, Lon: -94.9689)
+   County: Dickinson
+   Population: 333
+   Timezone: America/Chicago
+
+11. King, Wisconsin (Lat: 44.3402, Lon: -89.1228)
+   County: Waupaca
+   Population: 1,693
+   Timezone: America/Chicago
+
+12. North Chicago, Illinois (Lat: 42.3172, Lon: -87.8595)
+   County: Lake
+   Population: 30,619
+   Timezone: America/Chicago
+
+13. Springville, New York (Lat: 42.5084, Lon: -78.6696)
+   County: Erie
+   Population: 4,218
+   Timezone: America/New_York
+
+14. Wakefield, Pennsylvania (Lat: 39.7766, Lon: -76.1804)
+   County: Lancaster
+   Population: 382
+   Timezone: America/New_York
+
+15. Green Village, New Jersey (Lat: 40.7386, Lon: -74.446)
+   County: Morris
+   Population: 1,253
+   Timezone: America/New_York
+
+16. Goulds, Florida (Lat: 25.5614, Lon: -80.388)
+   County: Miami-Dade
+   Population: 10,994
+   Timezone: America/New_York
+
+17. Whittier, California (Lat: 33.9678, Lon: -118.0188)
+   County: Los Angeles
+   Population: 87,184
+   Timezone: America/Los_Angeles
+
+18. McClellan Park, California (Lat: 38.6629, Lon: -121.4016) (Military City)
+   County: Sacramento
+   Population: 991
+   Timezone: America/Los_Angeles
+
+19. Winchester Bay, Oregon (Lat: 43.6729, Lon: -124.1828)
+   County: Douglas
+   Population: 333
+   Timezone: America/Los_Angeles
+
+20. Kitsap Lake, Washington (Lat: 47.5905, Lon: -122.7088)
+   County: Kitsap
+   Population: 1,964
+   Timezone: America/Los_Angeles
+
+Total Distance: 16576.77 km
+Tour Completed.
